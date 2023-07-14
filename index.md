@@ -1,5 +1,5 @@
 ---
-title: agebuch
+title: Tagebuch
 ---
 
 ## Lerntagebuch zum Kurs Bibliotheks- und Archivinformatik FS23
